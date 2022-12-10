@@ -1,0 +1,22 @@
+{
+  "name": "mpx-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olliebowe/MPX-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olliebowe/MPX-/issues"
+  },
+  "homepage": "https://github.com/olliebowe/MPX-#readme",
+  "dependencies": {
+    "react-hook-form": "^7.40.0"
+  }
+}
